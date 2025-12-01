@@ -1,0 +1,10 @@
+[Add LinkedIn video link here]
+
+Example format:
+https://www.linkedin.com/posts/your-profile-name_cybersecurity-networksecurity-infosec-activity-xxxxxxxxxxxxxxxxxxxxx
+
+Instructions:
+1. Upload your video demonstration to LinkedIn
+2. Copy the post link
+3. Paste the link above
+4. Include relevant hashtags like #CyberSecurity #NetworkSecurity #InfoSec

@@ -1,0 +1,23 @@
+# Nmap Scan Findings Summary
+
+## Date: [To be filled]
+## Target Network: [To be filled]
+
+## Discovered Hosts
+- Total hosts discovered: [To be filled]
+- Active hosts: [To be filled]
+
+## Open Ports Summary
+[Add details about open ports found]
+
+## Services Identified
+[Add details about services running on open ports]
+
+## Operating Systems Detected
+[Add OS fingerprinting results]
+
+## Security Concerns
+[List any security concerns or vulnerabilities identified]
+
+## Next Steps
+[Recommend next actions based on findings]
