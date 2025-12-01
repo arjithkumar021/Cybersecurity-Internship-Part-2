@@ -1,15 +1,19 @@
-# Reconnaissance Phase
-
 This folder contains reconnaissance activities and results for the Network Security Lab.
 
-## Contents
+# Reconnaissance Summary
 
-- **whois.png** - WHOIS lookup results
-- **nslookup.png** - DNS lookup queries
-- **shodan.png** - Shodan search engine results
-- **google-dorks.png** - Google dorking queries and results
-- **ping-sweep.png** - Network ping sweep results
-- **banner-grabbing.png** - Service banner grabbing results
+## 1. WHOIS Lookup
+- Shows who owns a domain and its registration details.
+## 2. DNS Lookup
+- Reveals a domain’s IP address, mail servers, and DNS records.
+## 3. Shodan Search
+- Displays exposed devices/services and their vulnerabilities on the internet.
+## 4. Google Dorks
+- Finds sensitive or hidden information indexed publicly by Google.
+## 5. Ping Sweep
+- Detects which systems are alive and active in a network.
+## 6. Banner Grabbing
+- Identifies service/software versions running on open ports.
 
 ## Objectives
 
