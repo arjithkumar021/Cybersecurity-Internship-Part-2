@@ -2,54 +2,6 @@
 
 Welcome to the Network Security Lab repository! This project documents hands-on cybersecurity exercises covering reconnaissance, network scanning, vulnerability assessment, packet analysis, and firewall configuration.
 
-## 📚 Repository Structure
-
-```
-Network-Security-Lab/
-│
-├── 📁 1-Reconnaissance/
-│     ├── whois.png
-│     ├── nslookup.png
-│     ├── shodan.png
-│     ├── google-dorks.png
-│     ├── ping-sweep.png
-│     ├── banner-grabbing.png
-│     └── README.md
-│
-├── 📁 2-Nmap-Scanning/
-│     ├── nmap-sS.png
-│     ├── nmap-sU.png
-│     ├── nmap-sV.png
-│     ├── nmap-OS.png
-│     ├── nmap-A.png
-│     ├── Nmap-Scan-Report.md
-│     └── findings-summary.txt
-│
-├── 📁 3-Vulnerability-Scanning/
-│     ├── openvas-dashboard.png
-│     ├── openvas-scan-result.png
-│     ├── vulnerabilities-summary.png
-│     ├── OpenVAS-Report.pdf
-│     └── README.md
-│
-├── 📁 4-Packet-Analysis-Wireshark/
-│     ├── http-traffic.png
-│     ├── ftp-credentials.png
-│     ├── dns-queries.png
-│     ├── syn-flood-wireshark.png
-│     └── README.md
-│
-├── 📁 5-Firewall-Basics/
-│     ├── iptables-allow-rule.png
-│     ├── iptables-deny-rule.png
-│     ├── iptables-list.png
-│     └── README.md
-│
-├── 📁 Video/
-│     └── linkedin-video-link.txt
-│
-└── README.md
-```
 
 ## 🎯 Lab Objectives
 
